@@ -1,4 +1,4 @@
-classical simulation of shadow QSVT observable estimates from Krylov moments.
+Classical simulation, in JAX, of shadow QSVT observable estimates from Krylov moments (arXiv:2609.40167).
 
 ```
 python3 -m pytest
